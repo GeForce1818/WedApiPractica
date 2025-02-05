@@ -11,5 +11,6 @@ namespace WedApiPractica.Models
         
         }
         public DbSet<equipos> equipos { get; set; }
+
     }
 }
